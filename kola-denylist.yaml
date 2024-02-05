@@ -69,4 +69,4 @@
 - pattern: ext.config.files.console-config
   tracker: https://github.com/coreos/fedora-coreos-tracker/issues/1654
   streams:
-    - rawhide
+    - rhel-9.4
